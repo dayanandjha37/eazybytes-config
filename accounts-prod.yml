@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related prod APIs"
+  message: "Hey, welcome to EazyBank accounts related prod-change APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}05470d28f7b02c2df10d3b8bda9e3a49edecae3a0bfc4c4f7210530591c91c796fa9045e0e75283bfd78dd92602b16ee"
